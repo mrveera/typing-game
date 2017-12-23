@@ -1,0 +1,21 @@
+#display-challenge {
+  width: auto;
+  height: auto;
+  margin: 200px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 6em;
+  text-align: center;
+}
+
+.challenge{
+  text-align:center;
+}
+#answer-box {
+font-size: 40px;
+
+}
+
+#timer{
+  font-size: 20px;
+}
