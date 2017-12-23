@@ -2761,7 +2761,7 @@ let eraseAnswer = function () {
 
 let play=function (e) {
   if(isEnter(e)){
-    let answer = document.getElementById('answer-box').value;
+    let answer = document.getElementById('answer-box').value;x
     if(isValidAnswer(answer.trimLeft())){
     player.score++;
     clearTimeout(player.time);
